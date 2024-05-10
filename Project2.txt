@@ -1,6 +1,4 @@
-Description:
-
-implement the methods shown below.  
+Description:implement the methods shown below.  
     a) nodeCount
         Recursively traverses the tree and returns the count of nodes.
 
