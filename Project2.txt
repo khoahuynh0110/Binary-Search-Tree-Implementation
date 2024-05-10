@@ -1,32 +1,6 @@
-Project #2
-
-Due Date:  Saturday, October 21 at 11:59pm 
-
-Submit:    eLearning
-
-Late Policy:  24-hour late period, then zero
-
-Instructions: This is an individual assignment.  Answers should be your own work.
-
-
-
-Introduction:
-
-   In this project you will modify the author's BinarySearchTree code 
-   to implement some new methods.
-
-   Note that the UnderflowException class is in the zip file on the
-   textbook's website.
-
-
 Description:
 
-   Modify the author's BinarySearchTree code to implement the methods
-   shown below.  
-
-   Each method is 10 points except (h) and (i) are 5 points each.
-
-
+implement the methods shown below.  
     a) nodeCount
         Recursively traverses the tree and returns the count of nodes.
 
@@ -68,7 +42,7 @@ Description:
     g) isMirror 
         Returns true if the tree is a mirror of the passed tree.
 
-    h) rotateRight (5 points)
+    h) rotateRight 
         Performs a single rotation on the node having the passed value.
         If a RotateRight on 100 is performed:
 
@@ -80,7 +54,7 @@ Description:
         \ 
         45
 
-    i) rotateLeft (5 points)
+    i) rotateLeft 
         As above but left rotation.
 
     j) printLevels - performs a level-by-level printing of the tree.
